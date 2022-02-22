@@ -1,0 +1,168 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Voice from the dead, or, The speech of an old noble peer being the excellent oration of the learned and famous Boetius to the Emperour Theodoricus.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A28550</idno>
+            <idno type="STC">Wing B3435</idno>
+            <idno type="STC">ESTC R23389</idno>
+            <idno type="EEBO-CITATION">12761437</idno>
+            <idno type="OCLC">ocm 12761437</idno>
+            <idno type="VID">93504</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A28550)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 93504)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 375:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Voice from the dead, or, The speech of an old noble peer being the excellent oration of the learned and famous Boetius to the Emperour Theodoricus.</title>
+                  <author>Boethius, d. 524.</author>
+                  <author>Caussin, Nicolas, 1583-1651. Cour sainte. English.</author>
+                  <author>T. H. (Thomas Hawkins), Sir, d. 1640.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed and sold by Richard Janeway,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"A fictitious work extracted from Sir Thomas Hawkins translation of 'La cour sainte' by Nicolas Caussin"--BM.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-09</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-10</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-10</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:93504:1"/>
+            <pb facs="tcp:93504:1" rendition="simple:additions"/>
+            <p> A Voice from the Dead: OR THE SPEECH OF AN Old Noble Peer: Being the Excellent ORATION OF THE Learned and Famous BOETIUS, To the Emperour THEODORICUS.</p>
+            <p>
+               <hi>London</hi> Printed, and ſold by <hi>Richard Janeway,</hi> 1681.</p>
+            <pb facs="tcp:93504:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb n="3" facs="tcp:93504:2"/>
+            <head>A Voice from the Dead: OR, <hi>The Excellent Speech of that Noble and Learned Roman</hi> Boetius, <hi>to the Emperour</hi> Theodoricus.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I Am not Ignorant, that we are in a time, wherein it is, as it were, much eaſier to <hi>Fly,</hi> than to <hi>Speak</hi> of the ſtate of this Empire without offence to any; and that <hi>all diſcourſe,</hi> which at this preſent may be framed, will ever be <hi>ſuſpected</hi> by thoſe, who have made even our <hi>Thoughts</hi> Criminal to your Majeſty.</p>
+            <p>Yet muſt I needs ſay, it is a matter very hard to be <hi>Silent</hi> in ſo great Revolutions of Affairs, ſince Nature hath not Cre<g ref="char:EOLhyphen"/>ated us like <hi>Crocodiles,</hi> who are ſaid to have <hi>Eyes</hi> to Weep, and not a <hi>Tongue</hi> to Complain. I perceive we loſe as it were all that which we have of <hi>Roman</hi> in us, and that in this <hi>Univerſal Diſaſter,</hi> where all the World ſhould ſtrengthen their Armes againſt Violence: Men are contented to do, as in Thunder, every one prays the <hi>Thunder-Bolt</hi> may not fall upon <hi>his own houſe,</hi> and very little Regards the danger of his <hi>Neighbour:</hi> ſo likewiſe we ſee <hi>many Senators,</hi> whoſe Dignity ought to put into their Mouths, good and <hi>forcible Words</hi> for the defence of Juſtice, ſatisfying themſelves to avoid the <hi>Blow,</hi> and expecting ſafety in <hi>Common Ruins.</hi>
+            </p>
+            <p>As for my ſelf, I freely proteſt, that being Born of <hi>Blood,</hi> which never learn'd to <hi>Flatter</hi> any man, and ſeeing my ſelf in a Rank where my Silence may prove Injurious to the <hi>Pub<g ref="char:EOLhyphen"/>lick,</hi>
+               <pb n="4" facs="tcp:93504:3"/> ſince I cannot uphold <hi>Liberty</hi> already too much leaning to it's Ruine, I will at leaſt ſupport the <hi>Image</hi> of it, and in ſo general a ſervitude, ſpeak ſomething, wherein I will either diſcharge my <hi>Conſcience</hi> for the preſent, or comfort my <hi>Aſhes</hi> for the time to come.</p>
+            <p>Alas Sir, when I behold you ſitting upon the Throne of Glory, whereunto the Hand of God ſeemeth to have raiſed you by a <hi>Miracle,</hi> fortified you by <hi>Diſcretion,</hi> and bleſſed you with ſo many <hi>Proſperities;</hi> I cannot chuſe but remember with the moſt tender Reſentments of my Heart, the <hi>Calms</hi> of the <hi>firſt years,</hi> when you took into your Hand the Stern of this <hi>large Empire;</hi> who ever ſaw <hi>divers Metalls</hi> ſo happily com<g ref="char:EOLhyphen"/>mixed, as we then beheld <hi>different Nations</hi> united in one <hi>intire Body</hi> under your Authority? what conſent in Affections? what correſpondence in all orders? what vigour in Laws? what <hi>Obedience</hi> in Subjects? what <hi>Agreement in the Senate?</hi> what Applauſe among the <hi>People?</hi> what Policy in Cities? what good Fortune in Arms? what Bleſſing in all the ſucceſs of your Affairs?</p>
+            <p>Seemed it not, that God had affixed to your Standards and Edicts ſome ſecret vertue, which made the one Triumph in War, and the other become proſperous in <hi>Peace,</hi> with ſo much Terrour and Reputation, that even things <hi>oppoſite</hi> of their own Nature, knit themſelves firmly together for your Benefit?</p>
+            <p>O Sir! what is become of that <hi>Golden face</hi> of your Govern<g ref="char:EOLhyphen"/>ment? who hath Metamorphoſed it into this <hi>Leaden Viſage?</hi> perhaps you thought it was a part of the Greatneſs of your Majeſty, to hold <hi>a Senate under,</hi> to whom all the <hi>good Empe<g ref="char:EOLhyphen"/>rours</hi> have ſo much aſcribed, that they eſteemed them as ne<g ref="char:EOLhyphen"/>ceſſary for their <hi>Greatneſs,</hi> as leaves about the <hi>Roſe</hi> to ſet out its Beauty.</p>
+            <pb n="5" facs="tcp:93504:3"/>
+            <p> I could tell you Sir! how much theſe <hi>Counſels</hi> are perniti<g ref="char:EOLhyphen"/>ous, were it not that the Experience of the years of your Reign hath taught you more, than all the Malignity of Men can deface. If you will be pleaſed to call as yet to Counſel your <hi>Wit</hi> and <hi>
+                  <g ref="char:V">Ʋ</g>nderſtanding,</hi> which God hath Repleniſhed with ſo many fair and noble Lights: Believe me, you ſhall find this people is as the <hi>Herb Baſil,</hi> which rendreth a <hi>good Savour,</hi> as it is ſaid, when gently <hi>handled,</hi> and createth <hi>Scorpions</hi> when <hi>rudely Chafed.</hi> Hold us in the Eſtimation and Condition, wherein you hitherto have Retained us, and you ſhall ſee nothing more <hi>Tractable</hi> than the Roman people; but if you proceed with theſe Violences, by which ſome daily pervert your <hi>good Nature,</hi> it is to be feared, leſt this ſeverity produce not rather <hi>Poiſon,</hi> even for thoſe who hope out of it to derive <hi>ſweetneſs.</hi>
+            </p>
+            <p>Our <hi>Enemies</hi> ceaſe not to Exaſperate you, upon <hi>want of Reſpect due to your Majeſty,</hi> and yet God knows we have ſo regarded Royal Authority, that ſeeing it in moſt unjuſt hands, where it loſt its <hi>Luſtre,</hi> we ſuffered it not to loſe the fruit of our <hi>Obedience.</hi>
+            </p>
+            <p>Allow Sir, the Liberty, which ever hath been the moſt <hi>pre<g ref="char:EOLhyphen"/>cious Inheritance</hi> of this Empire; you have placed men over our Heads, who, to become Great, and unwilling to ſeem any thing leſs than what they are, ſeek to ſmother in our <hi>Miſeries</hi> the <hi>baſeneſs</hi> of their own <hi>Birth,</hi> and Believe the means to <hi>juſtifie their own Carriage,</hi> is to take away <hi>Eyes</hi> from thoſe who have them, and to render Tongues <hi>Mute,</hi> leſt they may learn a Truth. Now adays to be Born <hi>Rich,</hi> is to become a Prey, and to arrive at Government with ſome ſupereminencies of <hi>Wit,</hi> is to raiſe Enemies; all great Actions are ſuſpected: and it ſeemeth, that to find ſafety, we muſt ſeek it either in <hi>Ignorance</hi> or <hi>Idleneſs.</hi>
+            </p>
+            <pb n="6" facs="tcp:93504:4"/>
+            <p> We have ſo learned to Obey, that we would not hitherto ſo much as enter into conſideration of the diſtribution you made of your Favours, leaving them more Free, than are in the Sun, his <hi>Rayes,</hi> and contenting us to Honour the Character of your Majeſty, as well on <hi>Rocks,</hi> as Marbles and <hi>Silver.</hi> But now, when we ſee the <hi>precious Intereſts of the Kingdom,</hi> in Hands <hi>leſs pure</hi> than we wiſh, what elſe can we do in ſo <hi>publick a Calamity,</hi> but here moſt humbly <hi>Remonſtrate,</hi> that which the <hi>Subtil</hi> diſſemble, the <hi>Miſerable</hi> ſuffer, the <hi>Good</hi> deplore, and even the very <hi>Stones</hi> Relate?</p>
+            <p>Where is the time, Sir, when we heard thoſe Noble words to proceed from your Mouth, <hi>That the Flock may be Sheared, not Flayed; That a Body overcharged ſunk to the Ground; That there was no Tribute comparable to the pretious Commodities derived from the Love of Subjects?</hi> Now, all the <hi>Cities</hi> and <hi>Countries</hi> bewail the Rigorous Concuſſions they feel, to ſatisfie with their <hi>Sweat</hi> and <hi>Blood,</hi> the Avarice of ſome particulars, who are notwithſtanding, as <hi>greedy</hi> as Fire, and more unſatiable than the <hi>Abyſs.</hi>
+            </p>
+            <p>I exaſperate not here our Miſeries, by an amplification of words; I have, Sir, made you to ſee, when you pleaſed to hear me in your <hi>Cabinet,</hi> the Tears of Provinces, which ſoft<g ref="char:EOLhyphen"/>ned your heart to Compaſſion, and opened your Hands to Liberality, ſo that if your good Affections be not altered by ſome, you are capable enough to diſcharge Heaven of all Pro<g ref="char:EOLhyphen"/>miſes, which it hath made unto us, by the happineſs of your Empire.</p>
+            <p>
+               <hi>
+                  <g ref="char:V">Ʋ</g>nſeal</hi> thoſe Eyes which you ſo oft have opened for the comfort of your poor Subjects, and in what part ſoever you turn them, you ſhall behold nothing but <hi>Miſeries.</hi> Is it not a ſtrange thing, that Slaves being ſometimes ſold to courteous Maſters, ſweeten the ſharpneſs of their condition by ſome
+<pb n="7" facs="tcp:93504:4"/> Gentle uſage, and that there ſhould be none, but the people of <hi>Rome,</hi> who yearly buy out their Bondage? None but the people of <hi>Rome,</hi> who were made accountable for the Goods pulled from them, and Tributary for the Shiprack of their Poverty?</p>
+            <p>From thence the way is taken to the oppreſſion of Magi<g ref="char:EOLhyphen"/>ſtrates, and ſome are perſwaded, That throughly to <hi>Mow the Meadow,</hi> you muſt <hi>Humble the Heads</hi> of Plants moſt Eminent. <hi>Paulinus</hi> is diſpoiled, <hi>Albinus</hi> is Guilty of Treaſon; They are culpable enough, ſince they are Rich and Powerful. It is ſaid, there can be no ſafety found but in their Diſgrace. And who ſeeth not, that theſe proceedings tend to the Ruin of that moſt <hi>Noble Body,</hi> which almoſt Thirty years maintained your Royal Crown?</p>
+            <p>Out alas, Sir, if we Exclaim againſt <hi>Witches,</hi> who Poyſon <hi>Fountaines,</hi> how can we be Silent, ſeeing endeavour is uſed to <hi>Invenom the Soul of the Prince,</hi> who is the Source of all Counſels, to the end we may hereafter find <hi>Poiſon,</hi> where we hope for <hi>Remedies?</hi>
+            </p>
+            <p>Sir, only behold and imitate <hi>your Self,</hi> Re-aſſume that Spi<g ref="char:EOLhyphen"/>rit, which made you Reign in our <hi>Hearts,</hi> as well as in your <hi>Provinces:</hi> diſtinguiſh <hi>Flatterers</hi> from true <hi>Friends;</hi> hearken to thoſe, whoſe <hi>Loyalty</hi> you have known in the ſucceſs of ſo many Proſperities.</p>
+            <p>Remember your Self, That you were made to Reign over <hi>Men,</hi> not as a Man, but as the <hi>Law;</hi> to bear your Subjects in your <hi>Boſome,</hi> and not Trample them <hi>Under-foot;</hi> to teach by Example, and not conſtrain by <hi>Force;</hi> to be a <hi>Father of Citizens,</hi> and not a <hi>Maſter of Slaves.</hi>
+            </p>
+            <p>Remember your Self, Kings are given by Heaven, for the <hi>Uſe of People,</hi> and that they ought not to have ſo much Regard to the <hi>Extent of their Power,</hi> as not to conſider the <hi>Meaſure of</hi>
+               <pb n="8" facs="tcp:93504:5"/> 
+               <hi>their Obligations.</hi> Handle the matter ſo, that the <hi>Greatneſs</hi> of your Majeſty may appear in it's <hi>Goodneſs,</hi> and that this word which you heretofore had in your Mouth, may ſtick Eternally in your Heart, when you ſaid: <hi>A Good Prince ought not to fear any thing ſo much, as to be too much feared.</hi>
+            </p>
+         </div>
+         <div type="note_on_the_text">
+            <p>
+               <hi>BOetius,</hi> who made this Oration, was Author of that In<g ref="char:EOLhyphen"/>comparable Philoſophical Diſcourſe, <hi>De Conſolatione,</hi> being Conſul of <hi>Rome,</hi> under the ſaid <hi>Theodoricus,</hi> the firſt Emperour of the <hi>Gothiſh</hi> Race, about the year of our Lord 500. And this Speech was firſt Publiſht long ſince in <hi>Cauſins Holy Court,</hi> fol. 290. in theſe very words, as any per<g ref="char:EOLhyphen"/>ſon may find that pleaſes to Examin it. But <hi>Obſequium amicos veritas odium parit,</hi> the Upſhot of the Buſineſs was, That the Emperour was much offended at this his freedom, and be<g ref="char:EOLhyphen"/>ing ſpur'd on by his three Miſchievous Favourites, <hi>Trigilla, Congiaſtus,</hi> and <hi>Cyprianus,</hi> firſt Baniſht, and afterwards Mur<g ref="char:EOLhyphen"/>der'd the wiſe and faithful <hi>Boetius,</hi> who had ſerved him many years with an Intire and Irreproachable Loyalty. And ſoon after <hi>Theodoricus</hi> himſelf Died diſtracted, and the Empire in a very few years, was ſnatcht from his Succeſſor, by the Victo<g ref="char:EOLhyphen"/>rious Arms of <hi>Juſtinian</hi> Emperour of <hi>Conſtantinople.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:93504:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
